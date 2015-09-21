@@ -1,0 +1,285 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"sca",
+				"sca"
+			],
+			[
+				"js",
+				"js"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"i",
+				"images"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"m",
+				"main"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"he",
+				"header"
+			],
+			[
+				"U",
+				"User"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/kashyap/hacknight/nursing_home_app/views/index.jade",
+		"/home/kashyap/hacknight/nursing_home_app/public/javascripts/nursing_home.js",
+		"/home/kashyap/hacknight/nursing_home_app/public/stylesheets/style.css",
+		"/home/kashyap/index.html.3",
+		"/home/kashyap/hacknight/test.java",
+		"/home/kashyap/Documents/hadoop/app/nursing_home_app/views/index.jade",
+		"/home/kashyap/Downloads/SendAnywhere-Web-API-master/example/html/sample.html",
+		"/home/kashyap/Downloads/facebook-android-sdk-4.4.1/samples/HelloFacebookSample/src/com/example/hellofacebook/HelloFacebookSampleActivity.java",
+		"/home/kashyap/Downloads/facebook-android-sdk-4.4.1/samples/HelloFacebookSample/src/com/example/hellofacebook/HelloFacebookBroadcastReceiver.java",
+		"/home/kashyap/Downloads/express-node-mongo-skeleton-master/app.js",
+		"/home/kashyap/Downloads/Business Use Case_NYL/Newyorklife_hackathon/NewYorkLife/public/index.html",
+		"/home/kashyap/Documents/hadoop/nursing_home_app/source_files/Ownership_Download.csv",
+		"/home/kashyap/python/recommendations.py",
+		"/home/kashyap/hacknight/nursing_home_app/app.js",
+		"/home/kashyap/Downloads/demos/Interview/Cloud/public/index.html",
+		"/home/kashyap/Downloads/demos/Interview/Cloud/config/global.json",
+		"/home/kashyap/Downloads/demos/Interview/Cloud/cloud/main.js",
+		"/home/kashyap/Downloads/demos/Interview/Cloud/public/noughtsandcrosses/index.html",
+		"/home/kashyap/Downloads/imgskam/index.html",
+		"/home/kashyap/Documents/a.txt",
+		"/home/kashyap/Documents/Solution.java",
+		"/home/kashyap/Downloads/parse-js-blank (2)/index.html",
+		"/home/kashyap/Downloads/mk.js-master/server/package.json",
+		"/home/kashyap/Downloads/mk.js-master/server/npm-debug.log",
+		"/home/kashyap/Downloads/index.html",
+		"/home/kashyap/Downloads/chessboardjs-0.3.0/js/chessboard-0.3.0.js",
+		"/home/kashyap/Downloads/chessboardjs-0.3.0/js/chessboard-0.3.0.min.js",
+		"/home/kashyap/Downloads/mk.js-master/game/index.html",
+		"/home/kashyap/Downloads/mk.js-master/server/games.js",
+		"/home/kashyap/Downloads/mk.js-master/server/server.js",
+		"/home/kashyap/Downloads/demos/index.html",
+		"/home/kashyap/Downloads/demos/webrtc/index.html",
+		"/home/kashyap/Downloads/demos/common/oauthsuccess.html",
+		"/home/kashyap/Downloads/mk.js-master/game/src/movement.js",
+		"/home/kashyap/Downloads/demos/chat/index.html",
+		"/home/kashyap/Downloads/SDKTestApp/acisionsdk-javascript-v1.3.8/sdk.min.js",
+		"/home/kashyap/Downloads/html5-audio-editor-master/MusicSid/www/cloud/app.js",
+		"/home/kashyap/Downloads/demos/common/js/underscore.js",
+		"/home/kashyap/Downloads/demos/common/js/sdk.js",
+		"/home/kashyap/Downloads/SDKTestApp/index.html",
+		"/home/kashyap/Downloads/html5-audio-editor-master/MusicSid/www/Cloudapp/public/index.html",
+		"/home/kashyap/Downloads/html5-audio-editor-master/MusicSid/www/cloud/main.js",
+		"/home/kashyap/Downloads/html5-audio-editor-master/MusicSid/www/cloud/views/hello.ejs",
+		"/home/kashyap/Downloads/parse-js-blank/index.html",
+		"/home/kashyap/Downloads/demos/noughtsandcrosses/index.html",
+		"/home/kashyap/Downloads/demos/common/docs/LICENSE.txt",
+		"/home/kashyap/Downloads/html5-audio-editor-master/MusicSid/config.xml",
+		"/home/kashyap/Downloads/html5-audio-editor-master/MusicSid/www/config/global.json",
+		"/home/kashyap/Documents/music_sid/musicsidapp/Cloudapp/public/css/styles.css",
+		"/home/kashyap/Documents/music_sid/musicsidapp/Cloudapp/public/index.html",
+		"/home/kashyap/Documents/music_sid/musicsidapp/Cloudapp/public/functions.js",
+		"/home/kashyap/Downloads/html5-audio-editor-master/HTML5Application/index.html",
+		"/home/kashyap/Downloads/html5-audio-editor-master/HTML5Application/public_html/index.html",
+		"/home/kashyap/Documents/music_sid/musicsidapp/Cloudapp/cloud/main.js",
+		"/home/kashyap/Documents/music_sid/musicsidapp/MYCLoudCode/index.html",
+		"/home/kashyap/Documents/music_sid/musicsidapp/MYCLoudCode/public/css/styles.css",
+		"/home/kashyap/Documents/music_sid/musicsidapp/MYCLoudCode/public/index.html",
+		"/home/kashyap/Documents/music_sid/musicsidapp/MYCLoudCode/css/styles.css",
+		"/home/kashyap/Documents/music_sid/musicsidapp/MYCLoudCode/css/reset.css",
+		"/home/kashyap/Documents/music_sid/musicsidapp/MYCLoudCode/config/global.json",
+		"/home/kashyap/Documents/music_sid/musicsidapp/MYCLoudCode/cloud/main.js",
+		"/home/kashyap/Documents/music_sid/MusicDJ.io/index.html",
+		"/home/kashyap/Documents/music_sid/Music_sidapp/public/index.html",
+		"/home/kashyap/Desktop/javascript/test.html",
+		"/home/kashyap/Desktop/untitled.js",
+		"/home/kashyap/.config/sublime-text-3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h",
+			"cfg",
+			"board",
+			"api",
+			"apikey",
+			"api",
+			"key",
+			"none"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Linkedin.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
